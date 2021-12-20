@@ -5,7 +5,7 @@ GOARCH=wasm GOOS=js go build -o lib.wasm main.go
 
 
 
-mv lib.wasm ../web/static
+mv lib.wasm ../web/static 
 
 cd -
 
