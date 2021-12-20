@@ -1,0 +1,3 @@
+[submodule "simpleHttpserver"]
+	path = simpleHttpserver
+	url = https://github.com/Dereking/simpleHttpserver
